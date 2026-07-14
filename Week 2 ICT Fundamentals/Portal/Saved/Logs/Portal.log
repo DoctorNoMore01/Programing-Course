@@ -1,0 +1,1230 @@
+﻿Log file open, 07/14/26 11:03:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Portal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.142241
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-14700F, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+[2026.07.14-01.03.59:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2026.07.14-01.03.59:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+[2026.07.14-01.03.59:820][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+[2026.07.14-01.03.59:847][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2026.07.14-01.03.59:847][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.07.14-01.03.59:848][  0]LogInit: Selected Device Profile: [Windows]
+[2026.07.14-01.03.59:848][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2026.07.14-01.03.59:848][  0]LogHAL: Display: Platform has ~ 32 GB [34159964160 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.07.14-01.03.59:848][  0]LogInit: Going up to parent DeviceProfile []
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Scalability.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Engine.ini]
+[2026.07.14-01.03.59:848][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Config/Windows/Editor.ini]
+[2026.07.14-01.03.59:848][  0]LogInit: Computer: SYD-CB071D
+[2026.07.14-01.03.59:848][  0]LogInit: User: s252354
+[2026.07.14-01.03.59:848][  0]LogInit: CPU Page size=4096, Cores=20
+[2026.07.14-01.03.59:848][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.07.14-01.03.59:848][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2026.07.14-01.03.59:849][  0]LogMemory: Platform Memory Stats for Windows
+[2026.07.14-01.03.59:849][  0]LogMemory: Process Physical Memory: 159.36 MB used, 166.28 MB peak
+[2026.07.14-01.03.59:849][  0]LogMemory: Process Virtual Memory: 148.16 MB used, 148.16 MB peak
+[2026.07.14-01.03.59:849][  0]LogMemory: Physical Memory: 16461.12 MB used,  16116.36 MB free, 32577.48 MB total
+[2026.07.14-01.03.59:849][  0]LogMemory: Virtual Memory: 134199040.00 MB used,  18685.66 MB free, 134217728.00 MB total
+[2026.07.14-01.03.59:852][  0]LogWindows: WindowsPlatformFeatures enabled
+[2026.07.14-01.03.59:878][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2026.07.14-01.03.59:878][  0]LogInit: Using OS detected language (en-US).
+[2026.07.14-01.03.59:878][  0]LogInit: Using OS detected locale (en-AU).
+[2026.07.14-01.03.59:880][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2026.07.14-01.03.59:976][  0]LogInit: Setting process to per monitor DPI aware
+[2026.07.14-01.03.59:987][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.07.14-01.03.59:994][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2026.07.14-01.03.59:994][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2026.07.14-01.04.00:076][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2026.07.14-01.04.00:078][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2026.07.14-01.04.00:078][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2026.07.14-01.04.00:078][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2026.07.14-01.04.00:078][  0]LogD3D11RHI: D3D11 adapters:
+[2026.07.14-01.04.00:202][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2026.07.14-01.04.00:202][  0]LogD3D11RHI:       8024/0/16288 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2026.07.14-01.04.00:203][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2026.07.14-01.04.00:203][  0]LogD3D11RHI:       0/0/16288 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:    2. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:       8024/0/16288 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     VendorId    : 10de
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     DeviceId    : 24c9
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     SubSysId    : 88ae1043
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     Revision    : 00a1
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     DedicatedVideoMemory : 8413773824 bytes
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     SharedSystemMemory : 17079982080 bytes
+[2026.07.14-01.04.00:312][  0]LogD3D11RHI:     AdapterLuid : 0 47204
+[2026.07.14-01.04.00:316][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2026.07.14-01.04.00:316][  0]LogD3D11RHI:     GPU DeviceId: 0x24c9 (for the marketing name, search the web for "GPU Device Id")
+[2026.07.14-01.04.00:316][  0]LogWindows: EnumDisplayDevices:
+[2026.07.14-01.04.00:316][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2026.07.14-01.04.00:317][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2026.07.14-01.04.00:317][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2026.07.14-01.04.00:317][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2026.07.14-01.04.00:317][  0]LogWindows:    4. 'Meta Virtual Monitor' (P:0 D:0)
+[2026.07.14-01.04.00:317][  0]LogWindows:    5. 'Meta Virtual Monitor' (P:0 D:0)
+[2026.07.14-01.04.00:317][  0]LogWindows:    6. 'Meta Virtual Monitor' (P:0 D:0)
+[2026.07.14-01.04.00:317][  0]LogWindows:    7. 'Meta Virtual Monitor' (P:0 D:0)
+[2026.07.14-01.04.00:317][  0]LogWindows:    8. 'Meta Virtual Monitor' (P:0 D:0)
+[2026.07.14-01.04.00:318][  0]LogWindows:    9. 'Meta Virtual Monitor' (P:0 D:0)
+[2026.07.14-01.04.00:318][  0]LogWindows:    10. 'Meta Virtual Monitor' (P:0 D:0)
+[2026.07.14-01.04.00:318][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:   Driver Version: 591.74 (internal:32.0.15.9174, unified:591.74)
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:      Driver Date: 12-30-2025
+[2026.07.14-01.04.00:318][  0]LogRHI: Texture pool is 5616 MB (70% of 8024 MB)
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     VendorId    : 10de
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     DeviceId    : 24c9
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     SubSysId    : 88ae1043
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     Revision    : 00a1
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     DedicatedVideoMemory : 8413773824 bytes
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     SharedSystemMemory : 17079982080 bytes
+[2026.07.14-01.04.00:318][  0]LogD3D11RHI:     AdapterLuid : 0 47204
+[2026.07.14-01.04.00:413][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2026.07.14-01.04.00:415][  0]LogD3D11RHI: Async texture creation enabled
+[2026.07.14-01.04.00:415][  0]LogD3D11RHI: Array index from any shader is supported
+[2026.07.14-01.04.00:426][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2026.07.14-01.04.00:435][  0]LogRHI: GeForceNow SDK initialized: 1
+[2026.07.14-01.04.00:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.07.14-01.04.00:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.07.14-01.04.00:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.07.14-01.04.00:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.07.14-01.04.00:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.07.14-01.04.00:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2026.07.14-01.04.00:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.07.14-01.04.00:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.07.14-01.04.00:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2026.07.14-01.04.00:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2026.07.14-01.04.00:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2026.07.14-01.04.00:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2026.07.14-01.04.00:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2026.07.14-01.04.00:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2026.07.14-01.04.00:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.07.14-01.04.00:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.07.14-01.04.00:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.07.14-01.04.00:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.07.14-01.04.00:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.07.14-01.04.00:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2026.07.14-01.04.00:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.07.14-01.04.00:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.07.14-01.04.00:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.07.14-01.04.00:675][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2026.07.14-01.04.00:679][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.07.14-01.04.00:696][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2026.07.14-01.04.00:713][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2026.07.14-01.04.00:713][  0]LogShaderCompilers: Guid format shader working directory is -50 characters bigger than the processId version (../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Intermediate/Shaders/WorkingDirectory/17604/).
+[2026.07.14-01.04.00:713][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s252354/AppData/Local/Temp/UnrealShaderWorkingDir/A3CCC49F451CF186750A93A87E2B339E/'.
+[2026.07.14-01.04.00:713][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2026.07.14-01.04.00:713][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2026.07.14-01.04.00:713][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2026.07.14-01.04.01:138][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2026.07.14-01.04.01:174][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/s252354/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2026.07.14-01.04.01:174][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s252354/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2026.07.14-01.04.01:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2026.07.14-01.04.01:174][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2026.07.14-01.04.01:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.07.14-01.04.01:174][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2026.07.14-01.04.01:185][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2026.07.14-01.04.01:185][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.07.14-01.04.01:185][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2026.07.14-01.04.01:191][  0]LogDerivedDataCache: Speed tests for C:/Users/s252354/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2026.07.14-01.04.01:191][  0]LogDerivedDataCache: Display: Performance to C:/Users/s252354/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=545.37MBs, RandomWriteSpeed=179.67MBs. Assigned SpeedClass 'Local'
+[2026.07.14-01.04.01:192][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s252354/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2026.07.14-01.04.01:192][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2026.07.14-01.04.01:192][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2026.07.14-01.04.01:219][  0]LogSlate: Using FreeType 2.10.0
+[2026.07.14-01.04.01:220][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2026.07.14-01.04.01:234][  0]LogAssetRegistry: FAssetRegistry took 0.0015 seconds to start up
+[2026.07.14-01.04.01:405][  0]LogInit: Selected Device Profile: [Windows]
+[2026.07.14-01.04.01:405][  0]LogInit: Active device profile: [0000024F7DAA5300][0000024F7C9EAE80 49] Windows
+[2026.07.14-01.04.01:405][  0]LogInit: Profiles: [0000024F7DAA5300][0000024F7C9EAE80 49] Windows, [0000024F7EA6F100][0000024F7C9EF140 49] WindowsNoEditor, [0000024F7DAA6400][0000024F7C9F3400 49] WindowsServer, [0000024F7EA6DF00][0000024F7C9F76C0 49] WindowsClient, [0000024F7DAA7300][0000024F7C9FB980 49] IOS, [0000024F7EA6D200][0000024F7C9FE0C0 49] iPadAir, [0000024F7DAA7E00][0000024F7CA02380 49] iPadAir2, [0000024F7EA0A100][0000024F7CA168C0 49] IPadPro, [0000024F7EA0A200][0000024F7CA06900 49] iPadAir3, [0000024F7EA6DB00][0000024F72940B80 49] iPadAir4, [0000024F7EA0B100][0000024F7CA0EE00 49] iPadMini2, [0000024F7EA6F400][0000024F7CA130C0 49] iPadMini3, [0000024F7EA0BD00][0000024F7CA1B380 49] iPadMini4, [0000024F7EA6E500][0000024F7CA1F640 49] iPadMini5, [0000024F7EA39A00][0000024F7CA33B80 49] iPhone6, [0000024F7EA39B00][0000024F7CA23BC0 49] iPodTouch6, [0000024F7DAA6F00][0000024F7CA3A580 49] iPhone7, [0000024F7DAA7100][0000024F7CA2A5C0 49] iPodTouch7, [0000024F7EA09C00][0000024F7CA2E880 49] iPhone5S, [0000024F7DAA5200][0000024F7CA26B40 49] iPhone6Plus, [0000024F7EA09800][0000024F7CA0ADC0 49] iPhone6S, [0000024F7DAA4400][0000024F7CA37040 49] iPhone6SPlus, [0000024F7EA08E00][0000024F7CA43300 49] iPhone7Plus, [0000024F7DAA7000][0000024F7CA475C0 49] iPhoneSE, [0000024F7EA08A00][0000024F7CA4B880 49] iPhone8, [0000024F7DAA4800][0000024F7CA4FB40 49] iPhone8Plus, [0000024F7DAA5D00][0000024F7CA52280 49] iPhoneX, [0000024F7EA38800][0000024F7CA56540 49] iPhoneXS, [0000024F7DAA6D00][0000024F7CA5A800 49] iPhoneXSMax, [0000024F7EA38F00][0000024F7CA5EAC0 49] iPhoneXR, [0000024F7DAA5A00][0000024F7CA7AD80 49] iPhone11, [0000024F7EA39300][0000024F7CA3F000 49] iPhone11Pro, [0000024F7EA38400][0000024F7CA7F280 49] iPhone11ProMax, [0000024F7EA0B200][0000024F7CA87540 49] iPhoneSE2, [0000024F7EA3A300][0000024F7CA8B800 49] iPhone12Mini, [0000024F7EA09400][0000024F7EABBAC0 49] iPhone12, [0000024F7EA3AD00][0000024F7EABE200 49] iPhone12Pro, [0000024F7EA0B700][0000024F7EAC24C0 49] iPhone12ProMax, [0000024F7EA3AE00][0000024F7EAC6780 49] iPadPro105, [0000024F7EA0A400][0000024F7EACAA40 49] iPadPro129, [0000024F7EA3AF00][0000024F7EACED00 49] iPadPro97, [0000024F7EA0B800][0000024F7EAD2FC0 49] iPadPro2_129, [0000024F7DAA6B00][0000024F7CA83240 49] iPad5, [0000024F7EA09B00][0000024F7EAD74C0 49] iPad6, [0000024F7DAA7700][0000024F7EADF780 49] iPad7, [0000024F7EA0BC00][0000024F7EAE3A40 49] iPad8, [0000024F7DAA5E00][0000024F7EAE6180 49] iPadPro11, [0000024F7EA0AF00][0000024F7EAEA440 49] iPadPro2_11, [0000024F7DAA7A00][0000024F7EAEE700 49] iPadPro3_129, [0000024F7EA0AA00][0000024F7EAF29C0 49] iPadPro4_129, [0000024F7DAA6800][0000024F7EAF6C80 49] AppleTV, [0000024F7EA08200][0000024F7EAFAF40 49] AppleTV4K, [0000024F7DAA6500][0000024F7EAFF200 49] TVOS, [0000024F7EA09900][0000024F7EADB480 49] Mac, [0000024F7DAA4C00][0000024F7EB03700 49] MacClient, [0000024F7EA08800][0000024F7EB0B9C0 49] MacNoEditor, [0000024F7DAA5800][0000024F7EB0E100 49] MacServer, [0000024F7EA08500][0000024F7EB123C0 49] Linux, [0000024F7DAA5000][0000024F7EB16680 49] LinuxAArch64, [0000024F7EA0B300][0000024F7EB1A940 49] LinuxNoEditor, [0000024F7DAA4500][0000024F7EB1EC00 49] LinuxAArch64NoEditor, [0000024F7EA0BF00][0000024F7EB22EC0 49] LinuxClient, [0000024F7DAA4100][0000024F7EB27180 49] LinuxAArch64Client, [0000024F7EA0A600][0000024F7EB2B440 49] LinuxServer, [0000024F7DAA6C00][0000024F7EB076C0 49] LinuxAArch64Server, [0000024F7EA09300][0000024F7EB2F940 49] Android, [0000024F7DAA6700][0000024F7EB37C00 49] Android_Low, [0000024F7EA09500][0000024F7EB3A340 49] Android_Mid, [0000024F7DAA7400][0000024F7EB3E600 49] Android_High, [0000024F7EA08B00][0000024F7EB428C0 49] Android_Default, [0000024F7DAA5F00][0000024F7EB46B80 49] Android_Adreno4xx, [0000024F7EA09600][0000024F7EB4AE40 49] Android_Adreno5xx_Low, [0000024F7DAA7500][0000024F7EB4F100 49] Android_Adreno5xx, [0000024F7EA08300][0000024F7EB533C0 49] Android_Adreno6xx, [0000024F7DAA6E00][0000024F7EB57680 49] Android_Adreno6xx_Vulkan, [0000024F7EA0A500][0000024F7EB33900 49] Android_Mali_T6xx, [0000024F7DAA6300][0000024F7EB5BB80 49] Android_Mali_T7xx, [0000024F7EA09700][0000024F7EB622C0 49] Android_Mali_T8xx, [0000024F7DAA7800][0000024F7EB66580 49] Android_Mali_G71, [0000024F7EA0B400][0000024F7EB6A840 49] Android_Mali_G72, [0000024F7DAA4700][0000024F7EB6EB00 49] Android_Mali_G72_Vulkan, [0000024F7EA08C00][0000024F7EB72DC0 49] Android_Mali_G76, [0000024F7DAA5600][0000024F7EB77080 49] Android_Mali_G76_Vulkan, [0000024F7EA09D00][0000024F7EB7B340 49] Android_Mali_G77, [0000024F7DAA6900][0000024F7EB7F600 49] Android_Mali_G77_Vulkan, [0000024F7EA3BB00][0000024F7EB838C0 49] Android_Mali_G78, [0000024F7EA6FB00][0000024F7EB5FB40 49] Android_Mali_G78_Vulkan, [0000024F7EA39900][0000024F7EB86240 49] Android_Mali_G710, [0000024F7EA6EB00][0000024F7EB8E500 49] Android_Mali_G710_Vulkan, [0000024F7EA38300][0000024F7EB927C0 49] Android_Vulkan_SM5, [0000024F7EA6CB00][0000024F7EB96A80 49] Android_PowerVR_G6xxx, [0000024F7EA38200][0000024F7EB9AD40 49] Android_PowerVR_GT7xxx, [0000024F7EA6E900][0000024F7EB9F000 49] Android_PowerVR_GE8xxx, [0000024F7EA3AA00][0000024F7EBA32C0 49] Android_PowerVR_GM9xxx, [0000024F7EA6DC00][0000024F7EBA7580 49] Android_PowerVR_GM9xxx_Vulkan, [0000024F7EA3B700][0000024F7EBAB840 49] Android_TegraK1, [0000024F7EA6E400][0000024F7EBAFB00 49] Android_Unknown_Vulkan, [0000024F7EA3AC00][0000024F7EB8A200 49] Lumin, [0000024F7EA6C700][0000024F7EBB64C0 49] Lumin_Desktop, [0000024F7EA3A000][0000024F7EBBA780 49] HoloLens, 
+[2026.07.14-01.04.01:514][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.07.14-01.04.01:514][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2026.07.14-01.04.01:514][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.07.14-01.04.01:514][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2026.07.14-01.04.01:514][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.07.14-01.04.01:530][  0]LogNetVersion: Portal 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2008457034)
+[2026.07.14-01.04.01:860][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2026.07.14-01.04.01:912][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2026.07.14-01.04.01:916][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2026.07.14-01.04.01:916][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2026.07.14-01.04.01:916][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.07.14-01.04.02:162][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 68704F674947AEEC60DF6A93B4C95E6C | Instance: 2952FCB74C43A8AF8F70B791417EB7BB (SYD-CB071D-17604).
+[2026.07.14-01.04.02:192][  0]LogPython: Using Python 3.7.7
+[2026.07.14-01.04.02:644][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.07.14-01.04.02:650][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.07.14-01.04.02:727][  0]SourceControl: Source control is disabled
+[2026.07.14-01.04.02:727][  0]SourceControl: Source control is disabled
+[2026.07.14-01.04.02:729][  0]SourceControl: Source control is disabled
+[2026.07.14-01.04.02:736][  0]SourceControl: Source control is disabled
+[2026.07.14-01.04.02:737][  0]SourceControl: Source control is disabled
+[2026.07.14-01.04.02:740][  0]LogUProjectInfo: Found projects:
+[2026.07.14-01.04.02:844][  0]LogOpenImageDenoise: OIDN starting up
+[2026.07.14-01.04.02:877][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.07.14-01.04.02:888][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.07.14-01.04.02:888][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.07.14-01.04.02:950][  0]LogCollectionManager: Loaded 0 collections in 0.000398 seconds
+[2026.07.14-01.04.02:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Collections/' took 0.00s
+[2026.07.14-01.04.02:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/Developers/s252354/Collections/' took 0.00s
+[2026.07.14-01.04.02:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/Collections/' took 0.00s
+[2026.07.14-01.04.02:964][  0]LogOcInput: OculusInput pre-init called
+[2026.07.14-01.04.03:103][  0]LogEngine: Initializing Engine...
+[2026.07.14-01.04.03:239][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2026.07.14-01.04.03:239][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2026.07.14-01.04.03:239][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2026.07.14-01.04.03:251][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2026.07.14-01.04.03:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2026.07.14-01.04.03:251][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2026.07.14-01.04.03:252][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.07.14-01.04.03:321][  0]LogInit: Initializing FReadOnlyCVARCache
+[2026.07.14-01.04.03:325][  0]LogAIModule: Creating AISystem for world Untitled
+[2026.07.14-01.04.03:332][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.14-01.04.03:335][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.14-01.04.03:335][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2026.07.14-01.04.03:342][  0]LogAudioMixer: Display: 0: FrontLeft
+[2026.07.14-01.04.03:342][  0]LogAudioMixer: Display: 1: FrontRight
+[2026.07.14-01.04.03:369][  0]LogAudioMixer: Display: Using Audio Device 24G2W1G3- (NVIDIA High Definition Audio)
+[2026.07.14-01.04.03:371][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.14-01.04.03:372][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.14-01.04.03:372][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.14-01.04.03:373][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.07.14-01.04.03:373][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.07.14-01.04.03:373][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.07.14-01.04.03:373][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.07.14-01.04.03:373][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.07.14-01.04.03:373][  0]LogInit: FAudioDevice initialized.
+[2026.07.14-01.04.03:373][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.07.14-01.04.03:373][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.07.14-01.04.03:402][  0]LogDerivedDataCache: Saved boot cache 0.03s 94MB C:/Users/s252354/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2026.07.14-01.04.03:402][  0]LogInit: Texture streaming: Enabled
+[2026.07.14-01.04.03:410][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2026.07.14-01.04.03:411][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2026.07.14-01.04.03:411][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2026.07.14-01.04.03:412][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2026.07.14-01.04.03:422][  0]LogInit: Transaction tracking system initialized
+[2026.07.14-01.04.03:434][  0]BlueprintLog: New page: Editor Load
+[2026.07.14-01.04.03:478][  0]LocalizationService: Localization service is disabled
+[2026.07.14-01.04.03:491][  0]TimingProfiler: Initialize
+[2026.07.14-01.04.03:491][  0]TimingProfiler: OnSessionChanged
+[2026.07.14-01.04.03:491][  0]LoadingProfiler: Initialize
+[2026.07.14-01.04.03:491][  0]LoadingProfiler: OnSessionChanged
+[2026.07.14-01.04.03:491][  0]NetworkingProfiler: Initialize
+[2026.07.14-01.04.03:491][  0]NetworkingProfiler: OnSessionChanged
+[2026.07.14-01.04.03:491][  0]MemoryProfiler: Initialize
+[2026.07.14-01.04.03:491][  0]MemoryProfiler: OnSessionChanged
+[2026.07.14-01.04.03:583][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2026.07.14-01.04.03:583][  0]LogCook: Display: Mobile HDR setting 1
+[2026.07.14-01.04.03:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/' took 0.00s
+[2026.07.14-01.04.03:772][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.07.14-01.04.03:774][  0]SourceControl: Source control is disabled
+[2026.07.14-01.04.03:774][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.082
+[2026.07.14-01.04.03:784][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2026.07.14-01.04.03:784][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.07.14-01.04.03:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.03:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.07.14-01.04.03:785][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2026.07.14-01.04.03:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2026.07.14-01.04.03:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2026.07.14-01.04.03:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2026.07.14-01.04.03:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2026.07.14-01.04.03:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2026.07.14-01.04.03:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2026.07.14-01.04.03:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2026.07.14-01.04.03:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2026.07.14-01.04.03:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2026.07.14-01.04.03:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2026.07.14-01.04.03:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2026.07.14-01.04.03:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Collapse01.uasset"
+[2026.07.14-01.04.03:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Collapse02.uasset"
+[2026.07.14-01.04.03:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2026.07.14-01.04.03:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Explosion01.uasset"
+[2026.07.14-01.04.03:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Explosion02.uasset"
+[2026.07.14-01.04.03:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2026.07.14-01.04.03:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Fire01.uasset"
+[2026.07.14-01.04.03:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2026.07.14-01.04.03:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2026.07.14-01.04.03:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2026.07.14-01.04.03:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Light01.uasset"
+[2026.07.14-01.04.03:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2026.07.14-01.04.03:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Light02.uasset"
+[2026.07.14-01.04.03:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2026.07.14-01.04.03:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Smoke01.uasset"
+[2026.07.14-01.04.03:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2026.07.14-01.04.03:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2026.07.14-01.04.03:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2026.07.14-01.04.03:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2026.07.14-01.04.03:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2026.07.14-01.04.03:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2026.07.14-01.04.04:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2026.07.14-01.04.04:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Steam01.uasset"
+[2026.07.14-01.04.04:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2026.07.14-01.04.04:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2026.07.14-01.04.04:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2026.07.14-01.04.04:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2026.07.14-01.04.04:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2026.07.14-01.04.04:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2026.07.14-01.04.04:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2026.07.14-01.04.04:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2026.07.14-01.04.04:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2026.07.14-01.04.04:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2026.07.14-01.04.04:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2026.07.14-01.04.04:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2026.07.14-01.04.04:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2026.07.14-01.04.04:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2026.07.14-01.04.04:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2026.07.14-01.04.04:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2026.07.14-01.04.04:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2026.07.14-01.04.04:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2026.07.14-01.04.04:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2026.07.14-01.04.04:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2026.07.14-01.04.04:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Maps/Minimal_Default.umap"
+[2026.07.14-01.04.04:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2026.07.14-01.04.04:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Maps/StarterMap.umap"
+[2026.07.14-01.04.04:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2026.07.14-01.04.04:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2026.07.14-01.04.04:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2026.07.14-01.04.04:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2026.07.14-01.04.04:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2026.07.14-01.04.04:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2026.07.14-01.04.04:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2026.07.14-01.04.04:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2026.07.14-01.04.04:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2026.07.14-01.04.04:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2026.07.14-01.04.04:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2026.07.14-01.04.04:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2026.07.14-01.04.04:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2026.07.14-01.04.04:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2026.07.14-01.04.04:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2026.07.14-01.04.04:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2026.07.14-01.04.04:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2026.07.14-01.04.04:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2026.07.14-01.04.04:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Glass.uasset"
+[2026.07.14-01.04.04:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2026.07.14-01.04.04:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2026.07.14-01.04.04:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2026.07.14-01.04.04:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2026.07.14-01.04.04:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2026.07.14-01.04.04:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2026.07.14-01.04.04:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2026.07.14-01.04.04:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2026.07.14-01.04.04:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2026.07.14-01.04.04:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2026.07.14-01.04.04:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2026.07.14-01.04.04:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2026.07.14-01.04.04:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2026.07.14-01.04.04:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2026.07.14-01.04.04:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2026.07.14-01.04.04:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2026.07.14-01.04.04:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2026.07.14-01.04.04:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2026.07.14-01.04.04:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2026.07.14-01.04.04:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2026.07.14-01.04.04:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2026.07.14-01.04.04:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2026.07.14-01.04.04:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2026.07.14-01.04.04:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2026.07.14-01.04.04:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2026.07.14-01.04.04:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2026.07.14-01.04.04:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/P_Explosion.uasset"
+[2026.07.14-01.04.04:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/P_Fire.uasset"
+[2026.07.14-01.04.04:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/P_Smoke.uasset"
+[2026.07.14-01.04.04:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/P_Sparks.uasset"
+[2026.07.14-01.04.04:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2026.07.14-01.04.04:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2026.07.14-01.04.04:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2026.07.14-01.04.04:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2026.07.14-01.04.04:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2026.07.14-01.04.04:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2026.07.14-01.04.04:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2026.07.14-01.04.04:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2026.07.14-01.04.04:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2026.07.14-01.04.04:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2026.07.14-01.04.04:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2026.07.14-01.04.04:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/MaterialSphere.uasset"
+[2026.07.14-01.04.04:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Bush.uasset"
+[2026.07.14-01.04.04:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Chair.uasset"
+[2026.07.14-01.04.04:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2026.07.14-01.04.04:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Couch.uasset"
+[2026.07.14-01.04.04:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Door.uasset"
+[2026.07.14-01.04.04:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2026.07.14-01.04.04:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2026.07.14-01.04.04:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2026.07.14-01.04.04:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2026.07.14-01.04.04:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2026.07.14-01.04.04:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2026.07.14-01.04.04:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2026.07.14-01.04.04:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Rock.uasset"
+[2026.07.14-01.04.04:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Shelf.uasset"
+[2026.07.14-01.04.04:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Stairs.uasset"
+[2026.07.14-01.04.04:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_Statue.uasset"
+[2026.07.14-01.04.04:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_TableRound.uasset"
+[2026.07.14-01.04.04:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2026.07.14-01.04.04:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2026.07.14-01.04.04:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2026.07.14-01.04.04:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2026.07.14-01.04.04:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2026.07.14-01.04.04:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2026.07.14-01.04.04:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2026.07.14-01.04.04:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2026.07.14-01.04.04:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2026.07.14-01.04.04:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2026.07.14-01.04.04:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2026.07.14-01.04.04:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2026.07.14-01.04.04:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2026.07.14-01.04.04:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2026.07.14-01.04.04:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2026.07.14-01.04.04:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2026.07.14-01.04.04:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2026.07.14-01.04.04:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2026.07.14-01.04.04:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2026.07.14-01.04.04:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2026.07.14-01.04.04:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2026.07.14-01.04.04:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2026.07.14-01.04.04:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2026.07.14-01.04.04:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2026.07.14-01.04.04:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2026.07.14-01.04.04:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2026.07.14-01.04.04:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2026.07.14-01.04.04:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2026.07.14-01.04.04:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2026.07.14-01.04.04:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2026.07.14-01.04.04:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2026.07.14-01.04.04:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2026.07.14-01.04.04:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2026.07.14-01.04.04:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2026.07.14-01.04.04:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2026.07.14-01.04.05:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2026.07.14-01.04.05:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2026.07.14-01.04.05:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2026.07.14-01.04.05:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2026.07.14-01.04.05:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2026.07.14-01.04.05:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2026.07.14-01.04.05:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2026.07.14-01.04.05:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2026.07.14-01.04.05:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2026.07.14-01.04.05:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2026.07.14-01.04.05:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2026.07.14-01.04.05:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2026.07.14-01.04.05:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2026.07.14-01.04.05:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2026.07.14-01.04.05:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2026.07.14-01.04.05:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2026.07.14-01.04.05:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2026.07.14-01.04.05:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2026.07.14-01.04.05:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2026.07.14-01.04.05:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2026.07.14-01.04.05:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2026.07.14-01.04.05:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2026.07.14-01.04.05:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2026.07.14-01.04.05:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2026.07.14-01.04.05:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2026.07.14-01.04.05:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2026.07.14-01.04.05:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2026.07.14-01.04.05:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2026.07.14-01.04.05:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2026.07.14-01.04.05:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2026.07.14-01.04.05:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2026.07.14-01.04.05:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2026.07.14-01.04.05:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2026.07.14-01.04.05:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2026.07.14-01.04.05:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2026.07.14-01.04.05:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2026.07.14-01.04.05:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Door_M.uasset"
+[2026.07.14-01.04.05:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Door_N.uasset"
+[2026.07.14-01.04.05:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2026.07.14-01.04.05:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2026.07.14-01.04.05:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2026.07.14-01.04.05:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2026.07.14-01.04.05:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2026.07.14-01.04.05:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2026.07.14-01.04.05:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2026.07.14-01.04.05:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2026.07.14-01.04.05:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2026.07.14-01.04.05:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2026.07.14-01.04.05:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2026.07.14-01.04.05:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2026.07.14-01.04.05:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2026.07.14-01.04.05:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2026.07.14-01.04.05:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2026.07.14-01.04.05:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2026.07.14-01.04.05:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2026.07.14-01.04.05:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2026.07.14-01.04.05:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2026.07.14-01.04.05:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2026.07.14-01.04.05:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2026.07.14-01.04.05:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2026.07.14-01.04.05:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2026.07.14-01.04.05:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2026.07.14-01.04.05:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2026.07.14-01.04.05:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2026.07.14-01.04.05:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2026.07.14-01.04.05:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2026.07.14-01.04.05:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2026.07.14-01.04.05:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2026.07.14-01.04.05:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2026.07.14-01.04.05:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2026.07.14-01.04.05:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2026.07.14-01.04.05:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2026.07.14-01.04.05:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2026.07.14-01.04.05:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2026.07.14-01.04.05:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2026.07.14-01.04.05:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2026.07.14-01.04.05:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2026.07.14-01.04.05:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2026.07.14-01.04.05:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2026.07.14-01.04.05:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2026.07.14-01.04.05:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2026.07.14-01.04.05:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2026.07.14-01.04.05:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2026.07.14-01.04.05:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2026.07.14-01.04.05:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2026.07.14-01.04.05:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2026.07.14-01.04.05:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2026.07.14-01.04.05:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2026.07.14-01.04.05:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2026.07.14-01.04.05:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Water_M.uasset"
+[2026.07.14-01.04.05:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Water_N.uasset"
+[2026.07.14-01.04.05:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2026.07.14-01.04.05:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2026.07.14-01.04.05:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2026.07.14-01.04.05:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2026.07.14-01.04.05:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2026.07.14-01.04.05:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2026.07.14-01.04.05:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2026.07.14-01.04.05:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2026.07.14-01.04.06:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2026.07.14-01.04.06:029][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2026.07.14-01.04.06:032][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2026.07.14-01.04.06:069][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2026.07.14-01.04.06:164][  0]LogSavePackage: Moving '../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Saved/Floor_400x400B16A82F04604D6C77CD5518B923B8AC9.tmp' to '../../../../../../Users/s252354/Documents/GitHub/Programing-Course/Week 2 ICT Fundamentals/Portal/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2026.07.14-01.04.06:164][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2026.07.14-01.04.06:165][  0]LightingResults: New page: Lighting Build
+[2026.07.14-01.04.06:165][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.07.14-01.04.06:166][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.14-01.04.06:166][  0]MapCheck: New page: Map Check
+[2026.07.14-01.04.06:166][  0]LightingResults: New page: Lighting Build
+[2026.07.14-01.04.06:169][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.14-01.04.06:171][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (OODLE_AutoDXT, 64X32)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 64X64)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 64X64)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 2048X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 2048X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 2048X1024)
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 2048X1024)
+[2026.07.14-01.04.06:302][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:302][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:302][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:302][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:302][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:302][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:302][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 2048X2048)
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:537][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.07.14-01.04.06:541][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2026.07.14-01.04.06:542][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2026.07.14-01.04.06:560][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.14-01.04.06:565][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.07.14-01.04.06:576][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.14-01.04.06:576][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2026.07.14-01.04.06:576][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.411
+[2026.07.14-01.04.06:577][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.884
+[2026.07.14-01.04.06:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.14-01.04.06:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.14-01.04.06:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.14-01.04.06:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.14-01.04.06:804][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0051 seconds. Added 3822 classes and 928 folders.
+[2026.07.14-01.04.06:809][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2026.07.14-01.04.06:811][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.07.14-01.04.06:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.07.14-01.04.06:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2026.07.14-01.04.06:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2026.07.14-01.04.06:811][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2026.07.14-01.04.06:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2026.07.14-01.04.06:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2026.07.14-01.04.06:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2026.07.14-01.04.06:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2026.07.14-01.04.06:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.07.14-01.04.06:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2026.07.14-01.04.06:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2026.07.14-01.04.06:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2026.07.14-01.04.06:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2026.07.14-01.04.06:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2026.07.14-01.04.06:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2026.07.14-01.04.06:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2026.07.14-01.04.06:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2026.07.14-01.04.06:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2026.07.14-01.04.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2026.07.14-01.04.06:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2026.07.14-01.04.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2026.07.14-01.04.06:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.07.14-01.04.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2026.07.14-01.04.06:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:815][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.07.14-01.04.06:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.07.14-01.04.06:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2026.07.14-01.04.06:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2026.07.14-01.04.06:815][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.07.14-01.04.06:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.07.14-01.04.06:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2026.07.14-01.04.06:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2026.07.14-01.04.06:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2026.07.14-01.04.06:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2026.07.14-01.04.06:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2026.07.14-01.04.06:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.07.14-01.04.06:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2026.07.14-01.04.06:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.07.14-01.04.06:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2026.07.14-01.04.06:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.07.14-01.04.06:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2026.07.14-01.04.06:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.07.14-01.04.06:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2026.07.14-01.04.06:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2026.07.14-01.04.06:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2026.07.14-01.04.06:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.07.14-01.04.06:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2026.07.14-01.04.06:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:819][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.07.14-01.04.06:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.07.14-01.04.06:819][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:819][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2026.07.14-01.04.06:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2026.07.14-01.04.06:819][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2026.07.14-01.04.06:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.07.14-01.04.06:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2026.07.14-01.04.06:819][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.07.14-01.04.06:819][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2026.07.14-01.04.06:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2026.07.14-01.04.06:845][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2026.07.14-01.04.06:856][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2026.07.14-01.04.06:977][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.07.14-01.04.06:987][  0]LogSlate: Took 0.009107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.07.14-01.04.06:987][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.07.14-01.04.07:067][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2026.07.14-01.04.07:106][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.07.14-01.04.07:139][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2026.07.14-01.04.07:139][  0]LogLoad: (Engine Initialization) Total time: 8.45 seconds
+[2026.07.14-01.04.07:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2026.07.14-01.04.07:150][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2026.07.14-01.04.07:150][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2026.07.14-01.04.07:166][  0]LogAssetRegistry: Asset discovery search completed in 5.9325 seconds
+[2026.07.14-01.04.07:169][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2026.07.14-01.04.07:203][  0]LogContentStreaming: Texture pool size now 1000 MB
